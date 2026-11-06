@@ -26,4 +26,3 @@ with LangSmith tracing, demonstrated on GitHub code analysis.
 **[pi-tmux-sidechat](https://github.com/snehalyelmati/pi-tmux-sidechat)** — read-only
 side-chat over a running Pi session in tmux (`/scc`).
 
-[LinkedIn](https://www.linkedin.com/in/snehalreddy-yelmati/) · snehalyelmati@gmail.com
