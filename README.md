@@ -1,10 +1,11 @@
 # Snehal Reddy Yelmati
 
-AI engineer building agent systems and the infrastructure under them: orchestration,
-inference cost/latency, knowledge graphs, and evaluation. Currently founding AI engineer
-at a stealth startup, building local-first AI: on-device knowledge-graph extraction and
-retrieval. Previously five years at DBS Bank across backend engineering and applied ML,
-including knowledge-graph-augmented LLM systems used across the bank.
+I work on what it takes to run LLM agents well: how to split work across them, what
+they cost, and how to tell whether they did the job. That has meant building a parallel
+coding-agent harness, a browser-use runtime, and knowledge-graph pipelines that give
+models better context than raw text. Currently founding AI engineer at a stealth
+startup, building local-first AI with on-device knowledge-graph extraction and
+retrieval. Before that, five years at DBS Bank across backend engineering and applied ML.
 
 ## Selected work
 
